@@ -7,6 +7,5 @@ Hi, I'm nrfjr and still learning further on a lot of things but able to deliver 
 
 &nbsp;
 
-<p align="center">
+
 ![gray_cat_line](https://github.com/nrfjr/nrfjr/assets/90370309/b6f9be7d-881a-4dba-8a00-d3f68f1f0947)
-</p>
